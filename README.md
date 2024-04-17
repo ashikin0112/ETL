@@ -11,3 +11,5 @@ The Chinook sample database includes:
 - 11 tables
 - Information about primary and foreign key constraints
 - The addition of new 'TrackMediaType' transformed table. This transformation involves combining information from two separate tables (tracks and media_types) into a new table.
+
+(Source: https://docs.yugabyte.com/preview/sample-data/chinook/)
