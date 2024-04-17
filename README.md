@@ -9,5 +9,5 @@ Sales information was auto generated using random data for a four year period.
 The Chinook sample database includes:
 
 - 11 tables
-- A variety of indexes, primary and foreign key constraints
+- Information about primary and foreign key constraints
 - The addition of new 'TrackMediaType' transformed table. This transformation involves combining information from two separate tables (tracks and media_types) into a new table.
